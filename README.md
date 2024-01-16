@@ -7,7 +7,7 @@ Bantulah Ucok dengan membuat kalkulator sederhana untuk menghitung keliling bang
 
 ### Keterangan:
 <br>
-Pada input terdapat dua segment yaitu panjang `n` yang menggambarkan sisi horizontal dari persegi panjang, sedangkan untuk input panjang `m` yang menggambarkan sisi vertikal dari persegi panjang dan panjang setiap sisi segitiga. Kedua input tersebut bertipe data `int`. Program tersebut akan menghitung keliling bangun dari gambar diatas dan menampilkan hasil dari kalkulasi dalam bentuk 1 baris luaran(output).
+Pada input terdapat dua segment yaitu panjang  `n`  yang menggambarkan sisi horizontal dari persegi panjang, sedangkan untuk input panjang `m` yang menggambarkan sisi vertikal dari persegi panjang dan panjang setiap sisi segitiga. Kedua input tersebut bertipe data `int`. Program tersebut akan menghitung keliling bangun dari gambar diatas dan menampilkan hasil dari kalkulasi dalam bentuk 1 baris luaran(output).
 <br>
 
 **Perhatikan format struktur input :**
@@ -42,7 +42,7 @@ Berikut adalah contoh masukan yang diberikan.
 Berikut adalah keluaran yang diharapkan.
 
 ```
-179
+180
 
 ```
 
